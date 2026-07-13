@@ -27,7 +27,7 @@ The topology was implemented in Cisco Packet Tracer using Cisco Catalyst 3560-24
 
 ## Network Topology
 
-> Insert the topology screenshot here.
+<img width="1638" height="646" alt="Screenshot 2026-07-13 200954" src="https://github.com/user-attachments/assets/f0c8b34f-8612-4803-ac9a-f80786e0503e" />
 
 ---
 

@@ -1,3 +1,9 @@
+🌐 Languages
+
+- 🇺🇸 English (Default)
+- 🇮🇷 [نسخه فارسی](README.fa.md)
+
+
 # Lab 01 - Basic Packet Forwarding
 
 ## Overview

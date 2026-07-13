@@ -41,10 +41,10 @@ CCNA-Labs/
 
 ## Completed Labs
 
-|    Section     |           Lab           | Status |
+| Section | Lab | Status |
 |----------------|-------------------------|--------|
-| Network Basics | Basic Packet Forwarding | ✅    |
-|----------------|-------------------------|--------|
+| Network Basics | Basic Packet Forwarding | ✅ |
+
 
 
 ---

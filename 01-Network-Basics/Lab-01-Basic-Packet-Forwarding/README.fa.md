@@ -4,7 +4,7 @@
 - 🇺🇸 [English Version](README.md)
 
 
-# آزمایشگاه ۰۱ - انتقال پایه بسته‌ها در شبکه (Ba\sic Packet Forwarding)
+# آزمایشگاه ۰۱ - انتقال پایه بسته‌ها در شبکه (Basic Packet Forwarding)
 
 ## معرفی
 

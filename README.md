@@ -1,3 +1,9 @@
+🌐 Languages
+
+- 🇺🇸 English (Default)
+- 🇮🇷 [نسخه فارسی](README.fa.md)
+
+
 # CCNA Labs
 
 A collection of hands-on Cisco CCNA labs documenting my networking learning journey through practical scenarios built in Cisco Packet Tracer.

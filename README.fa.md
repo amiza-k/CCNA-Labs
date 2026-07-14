@@ -22,16 +22,34 @@
 
 ---
 
+## Learning Progress
+
+| Section | Status | Labs |
+|----------|:------:|:----:|
+| Network Basics | ✅ | 1 |
+| Switching | ⏳ | 0 |
+| VLAN | ⏳ | 0 |
+| Trunking | ⏳ | 0 |
+| Inter-VLAN Routing | ⏳ | 0 |
+| STP | ⏳ | 0 |
+| EtherChannel | ⏳ | 0 |
+| Static Routing | ⏳ | 0 |
+| OSPF | ⏳ | 0 |
+| DHCP | ⏳ | 0 |
+| NAT | ⏳ | 0 |
+| ACL | ⏳ | 0 |
+| IPv6 | ⏳ | 0 |
+| Network Security | ⏳ | 0 |
+| Network Automation | ⏳ | 0 |
+
+---
+
 ## ابزارها و فناوری‌ها
 
 - Cisco Packet Tracer
 - Cisco IOS CLI
-- Cisco ISR 4331
-- Cisco Catalyst Switches
 - Ethernet و Fiber (SFP)
-- IPv4
-- ICMP
-- ARP
+
 
 با ادامه مسیر یادگیری، فناوری‌ها و مباحث بیشتری به این مخزن اضافه خواهند شد.
 

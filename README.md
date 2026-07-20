@@ -28,7 +28,7 @@ Rather than simply completing exercises, each lab focuses on explaining the netw
 
 | Section | Status | Labs |
 |----------|:------:|:----:|
-| Network Basics | ✅ | 1 |
+| Network Basics | ✅ | 2 |
 | Switching | ⏳ | 0 |
 | VLAN | ⏳ | 0 |
 | Trunking | ⏳ | 0 |
@@ -72,7 +72,7 @@ CCNA-Labs/
 | Section | Lab | Status |
 |----------------|-------------------------|--------|
 | Network Basics | Basic Packet Forwarding | ✅ |
-
+| Network Basics | Secure Device Management | ✅ |
 
 
 ---

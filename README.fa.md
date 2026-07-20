@@ -71,6 +71,7 @@ CCNA-Labs/
 | بخش | آزمایشگاه | وضعیت |
 |------|-----------|--------|
 | Network Basics | Basic Packet Forwarding | ✅ |
+| Network Basics | Secure Device Management | ✅ |
 
 ---
 

@@ -26,7 +26,7 @@
 
 | Section | Status | Labs |
 |----------|:------:|:----:|
-| Network Basics | ✅ | 1 |
+| Network Basics | ✅ | 2 |
 | Switching | ⏳ | 0 |
 | VLAN | ⏳ | 0 |
 | Trunking | ⏳ | 0 |
